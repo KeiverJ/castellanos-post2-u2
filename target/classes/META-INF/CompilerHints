@@ -3,7 +3,14 @@ dontinline,*.*_avgt_jmhStub
 dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
-inline,edu/sistemas/u2/MyBenchmark.testMethod
+inline,edu/sistemas/u2/bench/ListBenchmark.arrayListIteration
+inline,edu/sistemas/u2/bench/ListBenchmark.arrayListRandomAccess
+inline,edu/sistemas/u2/bench/ListBenchmark.linkedListIteration
+inline,edu/sistemas/u2/bench/ListBenchmark.linkedListRandomAccess
+inline,edu/sistemas/u2/bench/ListBenchmark.setup
+inline,edu/sistemas/u2/bench/MatrixBenchmark.columnMajorSum
+inline,edu/sistemas/u2/bench/MatrixBenchmark.rowMajorSum
+inline,edu/sistemas/u2/bench/MatrixBenchmark.setup
 inline,edu/sistemas/u2/bench/SortingBenchmark.heapSort
 inline,edu/sistemas/u2/bench/SortingBenchmark.insertionSort
 inline,edu/sistemas/u2/bench/SortingBenchmark.mergeSort
